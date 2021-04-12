@@ -1,0 +1,26 @@
+How to create a web server using Javascript ? 
+
+Client Server Architecture 
+
+Client --> Request --->	Server --> Databases
+
+Database --> Server --> Response --> Client
+
+
+https://expressjs.com/
+
+npm init -y
+
+npm install express --save
+npm i express --save
+
+npm install -g nodemon
+
+To Run the Webserver
+http://localhost:portno
+
+https://www.npmjs.com/package/express
+
+https://www.npmjs.com/package/nodemon
+
+https://github.com/anildalar/expressserver
